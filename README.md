@@ -50,6 +50,8 @@ Dokumentasi Pengujian
 5. Pengujian Laporan Penjualan
 ![Pengujian Laporan Penjualan](Screenshot%202026-11-13%20145631.png)
 6. Pengujian Pengurutan Produk Berdasarkan Harga Termurah
+![Pengurutan Produk Berdasarkan Harga Termurah](Screenshot%202026-11-13%20145715.png)
 7. Pengujian Pengurutan Produk Berdasarkan Penjualan Tertinggi
+![Pengurutan Produk Berdasarkan Penjualan Tertinggi](Screenshot%202026-11-13%20145732.png)
 8. Pengujian Pencarian Produk
 9. Pengujian Peringatan Stok Menipis
