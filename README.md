@@ -28,7 +28,7 @@ Program menggunakan:
 - Array 2 dimensi (`namaProduk[50][50]`) untuk menyimpan nama produk.
 - Array 1 dimensi (`harga[50]`) untuk menyimpan harga produk.
 - Array 1 dimensi (`stok[50]`) untuk menyimpan jumlah stok produk.
-- Array 1 dimensi (`terjual[50]`)** untuk menyimpan jumlah produk yang terjual.
+- Array 1 dimensi (`terjual[50]`) untuk menyimpan jumlah produk yang terjual.
 
 Kapasitas maksimum program adalah 50 produk.
 
@@ -53,7 +53,5 @@ Dokumentasi Pengujian
 ![Pengurutan Produk Berdasarkan Harga Termurah](Screenshot%202026-11-13%20145715.png)
 7. Pengujian Pengurutan Produk Berdasarkan Penjualan Tertinggi
 ![Pengurutan Produk Berdasarkan Penjualan Tertinggi](Screenshot%202026-11-13%20145732.png)
-8. Pengujian Pencarian Produk
-![Pengujian Laporan Penjualan](Screenshot%202026-11-13%20145631.png)
-9. Pengujian Peringatan Stok Menipis
+8. Pengujian Peringatan Stok Menipis
 ![Pengujian Pencarian Produk dan Peringatan Stok Menipis](Screenshot%202026-11-13%20145856.png)
