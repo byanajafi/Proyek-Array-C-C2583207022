@@ -46,6 +46,7 @@ Dokumentasi Pengujian
 3. Pengujian Perubahan Stok dan Jumlah Produk Terjual
 ![Pengujian Perubahan Stok dan Jumlah Produk Terjual](Screenshot%202026-11-13%20145502.png)
 4. Pengujian Penolakan Transaksi Karena Stok Tidak Cukup
+![Pengujian Penolakan Transaksi Karena Stok Tidak Cukup](Screenshot%202026-11-13%20145551.png)
 5. Pengujian Laporan Penjualan
 6. Pengujian Pengurutan Produk Berdasarkan Harga Termurah
 7. Pengujian Pengurutan Produk Berdasarkan Penjualan Tertinggi
