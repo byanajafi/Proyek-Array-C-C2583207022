@@ -56,3 +56,4 @@ Dokumentasi Pengujian
 8. Pengujian Pencarian Produk
 ![Pengujian Laporan Penjualan](Screenshot%202026-11-13%20145631.png)
 9. Pengujian Peringatan Stok Menipis
+![Pengujian Pencarian Produk dan Peringatan Stok Menipis](Screenshot%202026-11-13%20145856.png)
