@@ -43,10 +43,11 @@ Dokumentasi Pengujian
 ![Pengujian Tambah Produk](Screenshot%202026-11-11%20203652.png)
 2. Transaksi Penjualan Beberapa Produk
 ![Nama Pengujian](Screenshot%202026-11-13%20145415.png)
-4. Pengujian Perubahan Stok dan Jumlah Produk Terjual
-5. Pengujian Penolakan Transaksi Karena Stok Tidak Cukup
-6. Pengujian Laporan Penjualan
-7. Pengujian Pengurutan Produk Berdasarkan Harga Termurah
-8. Pengujian Pengurutan Produk Berdasarkan Penjualan Tertinggi
-9. Pengujian Pencarian Produk
-10. Pengujian Peringatan Stok Menipis
+3. Pengujian Perubahan Stok dan Jumlah Produk Terjual
+![Pengujian Perubahan Stok dan Jumlah Produk Terjual](Screenshot%202026-11-13%20145502.png)
+4. Pengujian Penolakan Transaksi Karena Stok Tidak Cukup
+5. Pengujian Laporan Penjualan
+6. Pengujian Pengurutan Produk Berdasarkan Harga Termurah
+7. Pengujian Pengurutan Produk Berdasarkan Penjualan Tertinggi
+8. Pengujian Pencarian Produk
+9. Pengujian Peringatan Stok Menipis
